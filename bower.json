@@ -1,0 +1,17 @@
+{
+  "name": "node-app-scratch-b16",
+  "version": "0.1.0",
+  "homepage": "https://github.com/bitclash/node-app-scratch-b16",
+  "authors": [
+    "bitclash <aaroncooke@me.com>"
+  ],
+  "description": "Bower for our Node/Express Homework",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

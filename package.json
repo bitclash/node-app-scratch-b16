@@ -1,0 +1,31 @@
+{
+  "name": "node-app-scratch-b16",
+  "version": "0.1.0",
+  "description": "Node App Created for Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitclash/node-app-scratch-b16.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Aaron Cooke and Brian Studwell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitclash/node-app-scratch-b16/issues"
+  },
+  "homepage": "https://github.com/bitclash/node-app-scratch-b16",
+  "dependencies": {
+    "express": "^4.4.3",
+    "grunt": "^0.4.5",
+    "grunt-sass": "^0.14.0",
+    "node-sass": "^0.9.3"
+  },
+  "devDependencies": {
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
