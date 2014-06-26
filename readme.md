@@ -1,4 +1,4 @@
-# UXE - Node app from scratch
+d# UXE - Node app from scratch
 
 For this assignment, students will be required to build a UI module example view using Node and libsass with JavaScript(jQuery) and prepare for deployment to Heroku.
 

@@ -1,9 +1,7 @@
-doctype html
-html
-  head
-    title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
-  body
-    block content
+extends layout
 
-    script(src='http://localhost:35729/livereload.js')
+block content
+  h1= title
+  p Welcome to #{title}
+  h1 Kill those little fuckers!
+  img(src="images/ewok1.jpg")
